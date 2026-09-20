@@ -34,8 +34,7 @@ text1 and text2 consist of only lowercase English characters.
 ```
 /*
 Program to implement Reverse a String
-Developed by: Ramkumar G
-Register Number: 212223220084
+
 */
 
 import java.util.Scanner;
